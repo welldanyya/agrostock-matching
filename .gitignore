@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+result/_for_check.csv
+*.zip
+.DS_Store
+agrostock_demo/
+agrostock_demo 2/
